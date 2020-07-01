@@ -16,3 +16,14 @@
 5. Pull request
 6. Merge pull Request
 7. Merge이후 동기화 및 branch 삭제
+
+
+## Github Flow
+1. master: 제품으로 출시 될 수 있는 브랜치
+2. develop: 다음 출시 버전을 개발하는 브랜치
+3. feature: 기능을 개발하는 브랜치
+4. release: 이번 출시 버전을 준비하는 브랜치
+5. hotfix: 출시 버전에서 발생한 버그를 수정하는 브랜치
+
+
+![gitflow](https://woowabros.github.io/img/2017-10-30/git-flow_overall_graph.png)
